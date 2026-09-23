@@ -14,6 +14,41 @@
 
 </div>
 
+
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./assets/profile-art.png" width="100%" alt="ASCII style artwork">
+
+</td>
+
+<td width="50%">
+
+<pre>
+prathi@dev:~$ whoami
+
+USER       : prathi
+NAME       : PRATHEESH KUMAR
+HANDLE     : @itsprathi
+ROLE       : Tech Enthusiast / Developer
+STACK      : Java • Python • Web • Android • IoT • Spring Boot
+CURRENT    : Learning • Building • Experimenting
+MOOD       : Ctrl+C • Ctrl+V • Pray
+PUBLISHER  : CanoJoy Labs
+SYSTEM     : Linux + terminal + coffee
+
+prathi@dev:~$ _
+</pre>
+
+</td>
+</tr>
+</table>
+
+
+
+
 <!--
 =====================================================================
   itsprathi / GitHub Profile README — full dark, blue/purple/neon theme
